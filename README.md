@@ -2,4 +2,4 @@
 
 ## How to run
 * Clone repository
-* Run shopify.py
+* Run shopify-backend-challenge.py
