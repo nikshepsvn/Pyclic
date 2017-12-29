@@ -1,2 +1,5 @@
-# Shopify-Summer-Software-Engineering-Internship-Challenge
-Shopify Challenge for the Software Engineering Role for Summer 2018
+# Shopify Summer Software Engineering Internship Challenge
+
+## How to run
+* Clone repository
+* Run shopify.py
