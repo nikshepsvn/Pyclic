@@ -78,9 +78,5 @@ def classifyIfMenuIsValidOrNot(num, childrenOfCurrentNum):
 
 if __name__ == "__main__":
     url = "https://backend-challenge-summer-2018.herokuapp.com/challenges.json"
-
-    print("Challenge 1")
+    print("Result")
     print(getValidAndInvalidMenus(url, 1))
-    print()
-    print("Challenge 2")
-    print(getValidAndInvalidMenus(url, 2))
