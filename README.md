@@ -1,5 +1,3 @@
-# Shopify Summer Software Engineering Internship Challenge
+# Pyclic
 
-## How to run
-* Clone repository
-* Run shopify-backend-challenge.py
+Pyclic is a library designed to check a json for cyclic chains effeciently.
